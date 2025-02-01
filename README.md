@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cybersecurity
 - 📫 How to reach me:-  through my insta profile it.x_prithvi
 - 😄 Pronouns: He/Him
-- ⚡ fun fact is by mistake i hacked my school website😂
+- ⚡ 
 
 <!---
 Prithvixchiky24/Prithvixchiky24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
