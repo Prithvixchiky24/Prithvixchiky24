@@ -86,7 +86,7 @@ Cyber Explorer
 ```
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=32&center=true&vCenter=true&width=800&lines=Prithvixchiky24" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=40&center=true&vCenter=true&width=900&lines=>_+Prithvixchiky24" />
 </p>
 <p align="center">
   <img src="https://github.com/Prithvixchiky24/Prithvixchiky24/blob/output/cyber-snake-dark.svg">
