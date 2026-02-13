@@ -79,8 +79,8 @@ Testing web apps for:
 
 ## 🧑‍💻 Connect with me
 
-* LinkedIn: (add later)
-* HackerOne: (add later)
+* LinkedIn: https://www.linkedin.com/in/prithvi-0x/
+* HackerOne: https://hackerone.com/gabimaruu-01x
 
 ---
 
