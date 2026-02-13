@@ -66,13 +66,18 @@ Testing web apps for:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prithvi-01x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prithvi-01x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
   <img src="https://streak-stats.demolab.com?user=prithvi-01x&theme=tokyonight&hide_border=true&background=00000000" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prithvi-01x&theme=tokyo-night&bg_color=00000000&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prithvi-01x&theme=matrix&no-frame=true&margin-w=10"/>
+</p>
+
 
 
 
