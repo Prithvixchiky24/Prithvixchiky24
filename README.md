@@ -40,9 +40,10 @@
 
 ### 🤖 AI Tools
 
-* PyTorch
-* Ollama
-* RAG Systems
+![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20Systems-4CAF50?style=for-the-badge&logo=semanticweb&logoColor=white)
+
 
 ---
 
