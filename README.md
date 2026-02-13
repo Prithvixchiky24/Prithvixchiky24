@@ -1,32 +1,31 @@
 # 👋 Hey, I'm Prithvi
 
 💻 BTech CSE (IoT, Cybersecurity & Blockchain)
-🛡️ Cybersecurity | Bug Bounty | AI/ML
+🛡️ Cybersecurity • AI/ML • Security Research
 ⚡ Kali Linux user
-🚀 Maybe trying to build / hack the things i think
+🚀 Trying to build (and ethically hack) the things I imagine
 
 ---
 
 ## 🧠 Currently Learning
 
-* Web Security (PortSwigger labs)
+* Web Security (PortSwigger Labs)
 * Bug Bounty Hunting
-* AI + LLM fine-tuning
+* AI + LLM Fine-Tuning
 * DSA in C++
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages & Systems
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge\&logo=kalilinux)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
 
-
-## 🛡️ Cybersecurity Toolkit
+### 🛡️ Cybersecurity Toolkit
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge\&logo=burpsuite\&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge\&logo=gnubash\&logoColor=white)
@@ -34,12 +33,11 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge\&logo=metasploit\&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge\&logo=kalilinux\&logoColor=white)
 
-
-**AI**
+### 🤖 AI Tools
 
 * PyTorch
 * Ollama
-* RAG systems
+* RAG Systems
 
 ---
 
@@ -50,7 +48,7 @@
 AI chatbot for ocean data analysis
 
 * RAG pipeline
-* Vector DB
+* Vector database
 * Streamlit dashboard
 
 ### 🛡️ Bug Bounty Research
@@ -58,7 +56,7 @@ AI chatbot for ocean data analysis
 Testing web apps for:
 
 * IDOR
-* Auth bypass
+* Authentication bypass
 * Logic bugs
 
 ---
@@ -78,11 +76,9 @@ Testing web apps for:
   <img src="https://github-profile-trophy.vercel.app/?username=prithvi-01x&theme=matrix&no-frame=true&margin-w=10"/>
 </p>
 
+---
 
-
-
-
-## 🧑‍💻 Connect with me
+## 🧑‍💻 Connect with Me
 
 * LinkedIn: https://www.linkedin.com/in/prithvi-0x/
 * HackerOne: https://hackerone.com/gabimaruu-01x
@@ -96,10 +92,12 @@ Testing web apps for:
 Cyber Explorer
 ```
 
+
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=40&center=true&vCenter=true&width=900&lines=>_+prithvi-01x" />
 </p>
+
 <p align="center">
   <img src="https://github.com/prithvi-01x/prithvi-01x/blob/output/cyber-snake-dark.svg">
 </p>
-
