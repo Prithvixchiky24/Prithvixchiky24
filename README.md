@@ -63,9 +63,7 @@ Testing web apps for:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prithvi-01x&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prithvi-01x&theme=tokyonight" />
