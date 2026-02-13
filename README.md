@@ -3,7 +3,7 @@
 💻 BTech CSE (IoT, Cybersecurity & Blockchain)
 🛡️ Cybersecurity | Bug Bounty | AI/ML
 ⚡ Kali Linux user
-🚀 Building cool + dangerous things (ethically 😈)
+🚀 Maybe trying to build / hack the things i think
 
 ---
 
