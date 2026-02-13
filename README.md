@@ -18,12 +18,17 @@
 
 ## 🛠️ Tech Stack
 
-### Languages & Systems
+### 💻 Languages & Tools
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge\&logo=kalilinux)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux)
+
 
 ### 🛡️ Cybersecurity Toolkit
 
