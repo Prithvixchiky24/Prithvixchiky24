@@ -66,12 +66,14 @@ Testing web apps for:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prithvixchiky24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Prithvixchiky24&theme=tokyonight&hide_border=true&background=00000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prithvixchiky24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Prithvixchiky24&theme=tokyonight&hide_border=true&background=00000000" height="170"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prithvixchiky24&theme=tokyo-night&bg_color=00000000&hide_border=true"/>
 </p>
+
 
 
 ## 🧑‍💻 Connect with me
