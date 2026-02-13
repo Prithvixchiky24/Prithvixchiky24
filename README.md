@@ -83,7 +83,7 @@ Testing web apps for:
 
 ```bash
 > whoami
-Cyber Explorer
+Gabimaruu maybe?
 ```
 
 
