@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-
 # 👋 Hey, I'm Prithvi
 
 💻 BTech CSE (IoT, Cybersecurity & Blockchain)
@@ -86,3 +84,7 @@ Testing web apps for:
 > whoami
 Cyber Explorer
 ```
+
+
+![snake](https://github.com/Prithvixchiky24/Prithvixchiky24/blob/output/github-contribution-grid-snake-dark.svg)
+
