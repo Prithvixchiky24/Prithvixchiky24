@@ -66,12 +66,12 @@ Testing web apps for:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prithvixchiky24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Prithvixchiky24&theme=tokyonight&hide_border=true&background=00000000" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prithvi-01x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=prithvi-01x&theme=tokyonight&hide_border=true&background=00000000" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prithvixchiky24&theme=tokyo-night&bg_color=00000000&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prithvi-01x&theme=tokyo-night&bg_color=00000000&hide_border=true"/>
 </p>
 
 
@@ -92,9 +92,9 @@ Cyber Explorer
 ```
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=40&center=true&vCenter=true&width=900&lines=>_+Prithvixchiky24" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=40&center=true&vCenter=true&width=900&lines=>_+prithvi-01x" />
 </p>
 <p align="center">
-  <img src="https://github.com/Prithvixchiky24/Prithvixchiky24/blob/output/cyber-snake-dark.svg">
+  <img src="https://github.com/prithvi-01x/prithvi-01x/blob/output/cyber-snake-dark.svg">
 </p>
 
