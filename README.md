@@ -20,6 +20,7 @@
 
 ### 💻 Languages & Tools
 <p align="center">
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,22 +29,33 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux)
+
 </p>
+
+---
 
 ### 🛡️ Cybersecurity Toolkit
 <p align="center">
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge\&logo=burpsuite\&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge\&logo=gnubash\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge\&logo=metasploit\&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnubash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 </p>
+
+---
+
 ### 🤖 AI Tools
 <p align="center">
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG%20Systems-4CAF50?style=for-the-badge&logo=semanticweb&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20Systems-4CAF50?style=for-the-badge)
+
 </p>
+
 
 ---
 
