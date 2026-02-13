@@ -28,13 +28,14 @@
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 
 
-**Cybersecurity**
+## 🛡️ Cybersecurity Toolkit
 
-* Burp Suite
-* Nmap
-* Wireshark
-* Metasploit
-* Kali Linux
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge\&logo=burpsuite\&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge\&logo=metasploit\&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+
 
 **AI**
 
