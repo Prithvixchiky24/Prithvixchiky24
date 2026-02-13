@@ -86,5 +86,7 @@ Cyber Explorer
 ```
 
 
-![snake](https://github.com/Prithvixchiky24/Prithvixchiky24/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/Prithvixchiky24/Prithvixchiky24/blob/output/cyber-snake-dark.svg">
+</p>
 
