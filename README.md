@@ -79,16 +79,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-<p align="center">
-<a href="https://github.com/prithvi-01x/FloatChat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prithvi-01x&repo=FloatChat&theme=tokyonight" />
-</a>
-</p>
-
----
-
 ## 🛡️ Bug Bounty Research
 
 Testing web apps for:
