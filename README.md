@@ -15,9 +15,11 @@
 * DSA in C++
 
 ---
-# 👨‍💻 Dashboard
+## 🧑‍💻 Dashboard
 
-<img src="https://github.com/prithvi-01x/prithvi-01x/blob/main/github-metrics.svg" width="100%">
+<p align="center">
+<img src="https://github.com/prithvi-01x/prithvi-01x/blob/main/github-metrics.svg">
+</p>
 
 
 ## 🛠️ Tech Stack
