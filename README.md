@@ -5,12 +5,24 @@
 ⚡ Kali Linux user
 🚀 Building things. Breaking things (ethically). Learning fast.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prithvi-01x&label=Profile+Views&color=00ff00&style=for-the-badge" />
+</p>
+
 ---
 
 ## 🧑‍💻 GitHub Dashboard
 
 <p align="center">
 <img src="https://github.com/prithvi-01x/prithvi-01x/blob/main/github-metrics.svg" width="100%">
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/prithvi-01x?theme=dark&font=Fira+Code&ext=heatmap" />
 </p>
 
 ---
@@ -67,17 +79,17 @@
 
 ---
 
-## 🔥 Projects
+## 🚀 Featured Project
 
-### 🤖 FloatChat AI
+<p align="center">
+<a href="https://github.com/prithvi-01x/FloatChat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prithvi-01x&repo=FloatChat&theme=tokyonight" />
+</a>
+</p>
 
-AI chatbot for ocean data analysis
+---
 
-* RAG pipeline
-* Vector database
-* Streamlit dashboard
-
-### 🛡️ Bug Bounty Research
+## 🛡️ Bug Bounty Research
 
 Testing web apps for:
 
