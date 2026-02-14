@@ -23,12 +23,6 @@
 * DSA in C++
 
 ---
-## 🧑‍💻 Dashboard
-
-<p align="center">
-<img src="https://github.com/prithvi-01x/prithvi-01x/blob/main/github-metrics.svg">
-</p>
-
 
 ## 🛠 Tech Stack
 
