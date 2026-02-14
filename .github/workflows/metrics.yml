@@ -1,12 +1,13 @@
 name: GitHub Metrics
 
 on:
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule: [{ cron: "0 */12 * * *" }]
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -17,47 +18,34 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
 
-          # 🎨 theme
+          # 🎨 THEME (recommended)
+          config_theme: matrix
           config_display: large
           config_padding: 0, 8
 
-          # 📅 calendar
+          # 📅 contribution calendar
           plugin_isocalendar: yes
 
-          # 🧠 languages
+          # 📊 languages
           plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_threshold: 0%
+          plugin_languages_limit: 6
 
-          # 🔥 activity graph
+          # 🔥 recent activity
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_days: 14
 
           # 🏆 achievements
           plugin_achievements: yes
           plugin_achievements_threshold: C
-          plugin_achievements_display: compact
 
           # ⭐ stars
           plugin_stars: yes
 
-          # 📊 lines changed
-          plugin_lines: yes
-
-          # 📅 habits
+          # 🧠 coding habits
           plugin_habits: yes
           plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
 
-          # 🐍 snake
-          plugin_skyline: yes
-
-          # 🎯 followup
-          plugin_followup: yes
-
-          # 📈 repositories
+          # 📦 repos overview
           plugin_repositories: yes
-          plugin_repositories_featured: FloatChat
-
