@@ -22,12 +22,14 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcode-stats.vercel.app/api?username=prithvi-01x&theme=dark" />
+  <img src="https://leetcode-stats.vercel.app/api?username=prithvi-01x&theme=dark" />
 </p>
 
+
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/prithvi-01x?theme=dark&font=Fira+Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/prithvi-01x?theme=dark&font=Fira+Code&ext=contest" />
 </p>
+
 
 
 
