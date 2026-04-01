@@ -1298,7 +1298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prithvi-01x/NeuralClaw</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All-in-one autonomous AI agent — 6 LLM providers, 6 interfaces (CLI/Web/Voice/Telegram/Qt), zero-trust safety kernel, dual memory, and pluggable skill bus</div>
@@ -1351,7 +1351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prithvi-01x/Netwatch</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AI-assisted real-time Network Intrusion Detection System (NIDS) built with Scapy, FastAPI, and React. Detects port scans, SYN floods, brute-force attempts, and C2 beaconing. Enriches alerts using a local LLM (Ollama) and streams live detections via WebSockets to an interactive dashboard.</div>
@@ -1404,7 +1404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prithvi-01x/pentreport-ai-prod</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1452,7 +1452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prithvi-01x/pentreport-ai</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1533,7 +1533,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2026, 08:24:35 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2026, 19:12:49 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
